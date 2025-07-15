@@ -1,0 +1,2 @@
+# practice4
+This repository is regarding a full stack mini blogging app
